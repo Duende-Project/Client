@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wu4o8WXtErs2LngVMQlpbUMDz8C9l2uwBasKtJt37iwPHrQ7+tgd6QjiPJVWlvAdqVnE3P/F2gPDmVpJFT34eA==",
+  "success": true,
+  "projectFilePath": "/Users/haroldhopson/Workspace/quickstart/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/haroldhopson/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

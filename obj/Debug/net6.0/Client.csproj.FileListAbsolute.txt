@@ -1,0 +1,17 @@
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/Users/haroldhopson/Workspace/quickstart/Client/bin/Debug/net6.0/Client
+/Users/haroldhopson/Workspace/quickstart/Client/bin/Debug/net6.0/Client.deps.json
+/Users/haroldhopson/Workspace/quickstart/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/Users/haroldhopson/Workspace/quickstart/Client/bin/Debug/net6.0/Client.dll
+/Users/haroldhopson/Workspace/quickstart/Client/bin/Debug/net6.0/ref/Client.dll
+/Users/haroldhopson/Workspace/quickstart/Client/bin/Debug/net6.0/Client.pdb
+/Users/haroldhopson/Workspace/quickstart/Client/bin/Debug/net6.0/IdentityModel.dll
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.dll
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/ref/Client.dll
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.pdb
+/Users/haroldhopson/Workspace/quickstart/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
