@@ -32,7 +32,7 @@ Console.WriteLine(tokenResponse.AccessToken);
 var apiClient = new HttpClient();
 apiClient.SetBearerToken(tokenResponse.AccessToken);
 
-var response = await apiClient.GetAsync("https://localhost:6001/api/identity");
+var response = await apiClient.GetAsync("https://localhost:6001/api/books");
 if (!response.IsSuccessStatusCode)
 {
     Console.WriteLine(response.StatusCode);
@@ -42,3 +42,12 @@ else
     var doc = JsonDocument.Parse(await response.Content.ReadAsStringAsync()).RootElement;
     Console.WriteLine(JsonSerializer.Serialize(doc, new JsonSerializerOptions { WriteIndented = true }));
 }
+
+// var httpClientHandler = new HttpClientHandler();
+// var EndPoint = "https://localhost:6001/api/books";
+
+// httpClientHandler.ServerCertificateCustomValidationCallback = (message, cert, chain, sslPolicyErrors) =>
+// {
+//     return true;
+// };
+// apiClient = new HttpClient(httpClientHandler) { BaseAddress = new Uri(EndPoint) };
